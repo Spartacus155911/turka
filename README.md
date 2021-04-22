@@ -1,0 +1,2 @@
+# turka
+Tuekacoin
